@@ -6,9 +6,11 @@ A biography or simply bio is a detailed description or account of a person’s l
 Bibliography 
 (n.d.). Biography. Retrieved from Wikipedia: http://en.wikipedia.org/wiki/Biography
 ```
-The aim of a Biography on your CV, LinkedIn Profile, White Paper is to provide a short paragraph about yourself.  This ideally should be a single paragraph that is to the point and informs the reader of your background, expertise and skills. It can also be used to enhance your CV.
+The aim of a Biography on your CV, LinkedIn Profile, White Paper or other documentation is to provide a short paragraph about yourself.  
 
-When forming your Biography I have found the best way is to follow this framework.
+This ideally should be a single paragraph that is to the point and informs the reader of your background, expertise and skills. It should be brief but informatibve and show your strong points.
+
+When forming your Biography I have found the best way is to follow the framework shown below.
 
 ![biography flow 1](biography1.png)
 
